@@ -1,0 +1,57 @@
+header {
+    background-color: rgb(255, 9, 222);
+    text-align: center;
+    padding: 20px;
+}
+
+span {
+
+    color: rgb(255, 255, 255);
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: rgb(129, 129, 129);
+}
+
+.about {
+    margin-left: 25px;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.profile-pic{
+    width: 150px;   
+    height: 150px;
+}
+.container{
+    background-color: rgb(124, 121, 121);
+    display: flex;
+    gap: 30px;
+}
+.column{
+flex: 1;
+padding: 10px;
+}
+main{
+    background-color: hsl(0, 0%, 100%);
+}
+.new{
+    color: black;
+}
+.image{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 30px;
+    
+}
+.imggg{
+    width: 150px;
+    height: 150px;
+
+    
+}
